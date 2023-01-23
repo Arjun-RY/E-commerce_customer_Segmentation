@@ -1,4 +1,4 @@
-# E-commerce_customer_Segmentation
+# E-commerce_customer_Segmentation_based_on_purchasing behavior
 E-commerce customer Segmentation using NLP and K-means Clustering
 
 # Problem Statement
